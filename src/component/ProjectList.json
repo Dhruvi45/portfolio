@@ -1,0 +1,61 @@
+[
+    {
+        "projectName": "Do you know me?",
+        "description": "It is a simple 5 question about me.",
+        "source":"https://github.com/Dhruvi45/do-you-know-me",
+        "live":"https://replit.com/@Dhruvi45/mark1-how-do-you-know-me#index.js"
+    },
+    {
+        "projectName": "General knowlwdge quiz",
+        "description": "It is a simple 5 question about gk.",
+        "source":"https://github.com/Dhruvi45/GK-CLI-quiz",
+        "live":"https://replit.com/@Dhruvi45/Mark2-General-Knowledge-quiz#index.js"
+    },
+    {
+        "projectName": "Banana talk",
+        "description": "A website which converts English texts to Banana/Minion's language.",
+        "source":"https://github.com/Dhruvi45/Banana-talk",
+        "live":"https://kaleidoscopic-kitten-af576f.netlify.app/"
+    },
+    {
+        "projectName": "Palindrome Birthday",
+        "description": "Is your birthday a palindrome? No one cares, but still, if you wanna know, you know where to go!",
+        "source":"https://github.com/Dhruvi45/Palindrome-Birthday",
+        "live":"https://dainty-sundae-76c9cd.netlify.app/"
+    },
+    {
+        "projectName": "Is your Birthday lucky?",
+        "description": "Get to know if your Birthday is lucky or not?",
+        "source":"https://github.com/Dhruvi45/Is-your-Birthday-lucky-",
+        "live":"https://animated-kulfi-c620e4.netlify.app/"
+    },
+    {
+        "projectName": "General knowlwdge quiz",
+        "description": "It is a simple 5 question about gk.",
+        "source":"https://github.com/Dhruvi45/GK-CLI-quiz",
+        "live":"https://replit.com/@Dhruvi45/Mark2-General-Knowledge-quiz#index.js"
+    },
+    {
+        "projectName": "General knowlwdge quiz",
+        "description": "It is a simple 5 question about gk.",
+        "source":"https://github.com/Dhruvi45/GK-CLI-quiz",
+        "live":"https://replit.com/@Dhruvi45/Mark2-General-Knowledge-quiz#index.js"
+    },
+    {
+        "projectName": "Vaccination slot booking",
+        "description":"The project was create using  React js.Features like users can book their slot, see the list for a particular date, how many people, book slot, and shows dashboard.",
+        "source":"https://github.com/Dhruvi45/Vaccination_Slot_Booking"
+    },
+    {
+        "projectName": "Online code editor",
+        "description": "The project was create using  React js. Feature like syntax highlighting, download the pdf file of code which write in editor.",
+        "source":"https://github.com/Dhruvi45/GK-CLI-quiz"
+    },
+    {
+        "projectName": "Social community",
+        "description": "This website is about to social community details members, fund , scholarship and etc. This website is created using Html, Css and Javascript and it is an responsive website.",
+        "source":"https://github.com/Dhruvi45/AGBS-Bhavnagar",
+        "live":"https://dhruvi45.github.io/AGBS-Bhavnagar/"
+    }
+   
+]
