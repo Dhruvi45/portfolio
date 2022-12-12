@@ -1,5 +1,6 @@
 import React from 'react'
-import { Navbar,Container,Nav } from 'react-bootstrap'
+import { Navbar, Container, Nav } from 'react-bootstrap'
+import { Link } from "react-router-dom";
 
 export default function Hearder() {
   return (
@@ -11,9 +12,11 @@ export default function Hearder() {
           <Nav className="me-auto">
           </Nav>
           <Nav>
-            <Nav.Link href="/">Home</Nav.Link>
-            <Nav.Link href="/project">Projects</Nav.Link>
-            <Nav.Link href="/blogs">Blogs</Nav.Link>
+            
+            <Link className='nav-link' to={'/'}>Home</Link>
+            <Link className='nav-link' to={'/project'}>Projects</Link>
+            <Link className='nav-link' to={'/blogs'}>Blogs</Link>
+
           </Nav>
         </Navbar.Collapse>
       </Container>
