@@ -36,10 +36,28 @@
         "live":"https://astonishing-froyo-4812bb.netlify.app/"
     },
     {
-        "projectName": "General knowlwdge quiz",
-        "description": "It is a simple 5 question about gk.",
-        "source":"https://github.com/Dhruvi45/GK-CLI-quiz",
-        "live":"https://replit.com/@Dhruvi45/Mark2-General-Knowledge-quiz#index.js"
+        "projectName": "Pirate Translator App",
+        "description": "Pirate Translator App Translates your input text to Pirate Translated Text.",
+        "source":"https://github.com/Dhruvi45/Fun-Translation-App/tree/main",
+        "live":"https://papaya-nougat-5e0700.netlify.app/"
+    },
+    {
+        "projectName": "Travel recommendation app",
+        "description": "Some best palse to vist in India",
+        "source":"https://github.com/Dhruvi45/Recommendation-App",
+        "live":"https://zu2wtm.csb.app/"
+    },
+    {
+        "projectName": "Is your Birthday lucky?",
+        "description": "Get to know if your Birthday is lucky or not?",
+        "source":"https://github.com/Dhruvi45/Is-your-Birthday-lucky-",
+        "live":"https://animated-kulfi-c620e4.netlify.app/"
+    },
+    {
+        "projectName": "Know your Emoji",
+        "description": "Sometimes finding the exact meaning of Emoji becomes a tough task. EmojiRecog is here to help and search the meaning instantly.",
+        "source":"https://github.com/Dhruvi45/Know-your-Emoji",
+        "live":"https://yiqe0g.csb.app/"
     },
     {
         "projectName": "Vaccination slot booking",
